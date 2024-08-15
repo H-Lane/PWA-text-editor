@@ -27,10 +27,13 @@ After forking, be sure to run npm install from the root to install necessary pac
 
 Then, run npm start in the root to initialize the build process and start the service.
 
+The live deployment of this app, available for download, can be found [here](https://yet-another-jate.onrender.com/)
+
 ## Credits
 
 - University of Richmond Coding Bootcamp
 - Webpack
+- Render for live deployment
 - As always to Stack Overflow, for never quite having the answers I need, but always coming close.
 
 ## License
